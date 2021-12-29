@@ -1,8 +1,7 @@
-### Hello everyone! I'm Jade and I'm an iOS developer :fairy_woman:
+### Hello everyone! <img height="25em" src="https://visitor-badge.glitch.me/badge?page_id=mockada.mockada&left_color=pink&right_color=black" align="right" />
+I'm Jade and I'm an iOS developer :fairy_woman:
 
-<img height="25em" src="https://visitor-badge.glitch.me/badge?page_id=mockada.mockada&left_color=pink&right_color=black" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mockada&count_private=true&include_all_commits=true&bg_color=262626&text_color=ffffff&icon_color=ff8aa8&show_icons=true&title_color=ffb7ca&hide=stars,issues,contribs" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mockada&count_private=true&include_all_commits=true&bg_color=262626&text_color=ffffff&title_color=ffb7ca&layout=compact" />
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=mockada&count_private=true&include_all_commits=true&bg_color=262626&text_color=ffffff&icon_color=ff8aa8&show_icons=true&title_color=ffb7ca&hide=stars,issues,contribs" /> <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mockada&count_private=true&include_all_commits=true&bg_color=262626&text_color=ffffff&title_color=ffb7ca&layout=compact" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mockada&repo=Moov&title_color=ffb7ca&bg_color=262626&text_color=ffffff&icon_color=ff8aa8)](https://github.com/mockada/moov) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mockada&repo=LittleSearch&title_color=ffb7ca&bg_color=262626&text_color=ffffff&icon_color=ff8aa8)](https://github.com/mockada/LittleSearch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mockada&repo=NetworkCore&title_color=ffb7ca&bg_color=262626&text_color=ffffff&icon_color=ff8aa8)](https://github.com/mockada/NetworkCore) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mockada&repo=SpotifySiriSwiftUI&title_color=ffb7ca&bg_color=262626&text_color=ffffff&icon_color=ff8aa8)](https://github.com/mockada/SpotifySiriSwiftUI)
